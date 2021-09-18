@@ -1,2 +1,0 @@
-# SudokuGame
-Programmed with Python
